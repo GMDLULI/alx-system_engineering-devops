@@ -1,2 +1,2 @@
 #!/bin/bash
-find myDir ./ "*.html" exec cp{} ../
+cp -u *html ../
