@@ -1,2 +1,2 @@
 #!/bin/bash
-echo -en "" > iacta | tail -n 1 >> iacta
+echo -en "" | tail -n 1 > iacta >> iacta
