@@ -1,0 +1,2 @@
+#!/bin/bash
+find . -type d -name lib*  -print | wc -l
