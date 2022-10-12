@@ -1,3 +1,2 @@
 #!/bin/bash
-echo "I am an ALX Student"
-
+I am an alx student
